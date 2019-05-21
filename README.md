@@ -1,4 +1,4 @@
 Portfolio website
 
 website is still in the making.
-Working on making it resposive
+Working on making it responsive
